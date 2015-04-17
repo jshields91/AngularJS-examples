@@ -1,1 +1,1 @@
-# Angular JS examples completed via the AngularJs CodeAcademy course.
+Angular JS examples completed via the AngularJs CodeAcademy course.
